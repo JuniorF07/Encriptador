@@ -1,6 +1,6 @@
 # EncriptadorDeTexto
 
-Este proyecto es una aplicación web simple para encriptar y desencriptar texto utilizando un conjunto específico de reglas. También incluye una funcionalidad para copiar el texto resultante al portapapeles.
+Este proyecto es una aplicación web para encriptar y desencriptar texto utilizando un conjunto específico de reglas. También incluye una funcionalidad para copiar el texto resultante al portapapeles.
 
 ## Descripción
 
